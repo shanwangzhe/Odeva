@@ -1,4 +1,4 @@
 language: java
 
--script :
+- script:
     - javac SIR_TP1/src/TP1.java
